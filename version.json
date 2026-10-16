@@ -1,8 +1,7 @@
 {
-  "latestVersionCode": 1,
-  "latestVersionName": "1.0",
-  "downloadUrl": "https://github.com/radityo04/pickup_pesanan/releases/download/v1.0/PickupPesanan.apk",
+  "latestVersionCode": 2,
+  "latestVersionName": "2.1",
+  "downloadUrl": "https://github.com/radityo04/pickup_pesanan/releases/download/v1.1/PickupPesanan.apk",
   "forceUpdate": true,
-  "sha256": "GANTI_DENGAN_SHA256_APK",
-  "releaseNotes": "Versi awal aplikasi Pickup Pesanan."
+  "releaseNotes": "Update wajib aplikasi Pickup Pesanan versi 1.1."
 }
