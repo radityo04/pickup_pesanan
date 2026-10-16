@@ -1,0 +1,8 @@
+{
+  "latestVersionCode": 2,
+  "latestVersionName": "1.1",
+  "downloadUrl": "https://github.com/USERNAME/PickupPesanan/releases/download/v1.1/PickupPesanan.apk",
+  "forceUpdate": true,
+  "sha256": "GANTI_DENGAN_SHA256_APK",
+  "releaseNotes": "Update fitur riwayat, pencarian resi, detail pickup, dan export Excel."
+}
